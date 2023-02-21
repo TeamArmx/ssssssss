@@ -9,7 +9,7 @@ date_default_timezone_set('America/Buenos_Aires');
 require "./function.php";
 
 $skeys = array(
-1 => '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',
+1 => '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',
 //2 =>  '',
 //4 => '',
 );
