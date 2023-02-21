@@ -28,7 +28,7 @@ function multiexplode($seperator, $string){
     return $two;
     };
 
-$sk = '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';
+$sk = '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';
 $lista = $_GET['lista'];
     $cc = multiexplode(array(":", "|", ""), $lista)[0];
     $mes = multiexplode(array(":", "|", ""), $lista)[1];
